@@ -9,9 +9,9 @@
         <el-checkbox label="6星"></el-checkbox>
         <el-checkbox label="5星"></el-checkbox>
         <el-checkbox label="4星"></el-checkbox>
-        <el-checkbox label="3星"></el-checkbox>
-        <el-checkbox label="2星"></el-checkbox>
-        <el-checkbox label="1星"></el-checkbox>
+        <el-checkbox label="3星" disabled></el-checkbox>
+        <el-checkbox label="2星" disabled></el-checkbox>
+        <el-checkbox label="1星" disabled></el-checkbox>
       </el-checkbox-group>
     </h3>
     <h3 class="select-item">
