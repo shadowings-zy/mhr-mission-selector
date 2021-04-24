@@ -1,28 +1,34 @@
 <template>
   <h1>《怪物猎人 崛起》任务选择器</h1>
-  <h2>点击“选择”按钮，随机选择任务和武器</h2>
+  <h3>
+    本项目是给“选择困难症/不知道该刷些什么的怪玩家”专门开发的网页程序。<br />
+    用于随机选择指定星级的任务，以及随机选择指定数目的武器。<br />
+  </h3>
   <div id="select">
     <h3 class="select-item">
-      <p class="select-title">星级选择：</p>
-      <el-checkbox-group class="select-content" v-model="state.levelCheckList">
-        <el-checkbox label="7星"></el-checkbox>
-        <el-checkbox label="6星"></el-checkbox>
-        <el-checkbox label="5星"></el-checkbox>
-        <el-checkbox label="4星"></el-checkbox>
-        <el-checkbox label="3星" disabled></el-checkbox>
-        <el-checkbox label="2星" disabled></el-checkbox>
-        <el-checkbox label="1星" disabled></el-checkbox>
-      </el-checkbox-group>
+      <p class="select-title">任务星级：</p>
+      <div class="select-content">
+        <el-checkbox-group v-model="state.levelCheckList">
+          <el-checkbox label="7星"></el-checkbox>
+          <el-checkbox label="6星"></el-checkbox>
+          <el-checkbox label="5星"></el-checkbox>
+          <el-checkbox label="4星"></el-checkbox>
+          <el-checkbox label="3星"></el-checkbox>
+          <el-checkbox label="2星"></el-checkbox>
+          <el-checkbox label="1星"></el-checkbox>
+        </el-checkbox-group>
+      </div>
     </h3>
     <h3 class="select-item">
       <p class="select-title">武器数量：</p>
-      <el-input-number
-        class="select-content"
-        v-model="state.weaponNum"
-        :min="1"
-        :max="14"
-        label="武器种类"
-      ></el-input-number>
+      <div class="select-content">
+        <el-input-number
+          v-model="state.weaponNum"
+          :min="1"
+          :max="14"
+          label="武器种类"
+        ></el-input-number>
+      </div>
     </h3>
     <h3 class="select-item">
       <el-button
@@ -30,7 +36,7 @@
         type="primary"
         :disabled="state.levelCheckList.length === 0"
         @click="getRandomMissionAndWeapon"
-        >选择</el-button
+        >选择任务</el-button
       >
     </h3>
   </div>
@@ -85,6 +91,10 @@ const getRandomMissionAndWeapon = () => {
   getRandomMission();
   getRandomWeapon();
 };
+
+const goGithub = () => {
+  window.open("https://github.com/shadowings-zy/mhr-mission-selector");
+};
 </script>
 
 <style>
@@ -94,7 +104,7 @@ const getRandomMissionAndWeapon = () => {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin: 60px 20px;
 }
 
 #select {
@@ -117,13 +127,14 @@ const getRandomMissionAndWeapon = () => {
 }
 
 .select-title {
+  width: 100px;
   height: 40px;
   line-height: 40px;
   margin: 0;
 }
 
 .select-content {
-  height: 40px;
+  width: calc(100vw - 140px);
   line-height: 40px;
   margin: 0 0 0 10px;
 }

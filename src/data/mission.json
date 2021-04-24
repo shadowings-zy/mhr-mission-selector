@@ -1,12 +1,44 @@
 [
-  { "name": "雪鬼兽来了", "description": "狩猎1头雪鬼兽", "level": "7星" },
-  { "name": "身缠鬼火者", "description": "狩猎1头怨虎龙", "level": "7星" },
-  { "name": "招往泥海", "description": "狩猎1头泥翁龙", "level": "7星" },
-  { "name": "奔驰于地底的角龙", "description": "狩猎1头角龙", "level": "7星" },
-  { "name": "轰隆隆的咆哮", "description": "狩猎1头轰龙", "level": "7星" },
-  { "name": "妖魔鬼怪", "description": "狩猎1头金狮子", "level": "7星" },
-  { "name": "吹火贵妇", "description": "狩猎1头妃蜘蛛", "level": "7星" },
-  { "name": "雷神", "description": "狩猎1头雷神龙", "level": "7星" },
+  {
+    "name": "雪鬼兽来了",
+    "description": "狩猎1头雪鬼兽",
+    "level": "7星"
+  },
+  {
+    "name": "身缠鬼火者",
+    "description": "狩猎1头怨虎龙",
+    "level": "7星"
+  },
+  {
+    "name": "招往泥海",
+    "description": "狩猎1头泥翁龙",
+    "level": "7星"
+  },
+  {
+    "name": "奔驰于地底的角龙",
+    "description": "狩猎1头角龙",
+    "level": "7星"
+  },
+  {
+    "name": "轰隆隆的咆哮",
+    "description": "狩猎1头轰龙",
+    "level": "7星"
+  },
+  {
+    "name": "妖魔鬼怪",
+    "description": "狩猎1头金狮子",
+    "level": "7星"
+  },
+  {
+    "name": "吹火贵妇",
+    "description": "狩猎1头妃蜘蛛",
+    "level": "7星"
+  },
+  {
+    "name": "雷神",
+    "description": "狩猎1头雷神龙",
+    "level": "7星"
+  },
   {
     "name": "“注意火候！紫炎与火球”之卷",
     "description": "狩猎1头火龙和1头怨虎龙",
@@ -42,19 +74,51 @@
     "description": "狩猎1只妃蜘蛛和1头奇怪龙",
     "level": "7星"
   },
-  { "name": "疾风怒涛的大舞台", "description": "狩猎所有目标", "level": "7星" },
+  {
+    "name": "疾风怒涛的大舞台",
+    "description": "狩猎所有目标",
+    "level": "7星"
+  },
   {
     "name": "山河一闪，雷鸣响彻",
     "description": "狩猎1头雷狼龙",
     "level": "6星"
   },
-  { "name": "邀往冥府的歌声", "description": "狩猎1头人鱼龙", "level": "6星" },
-  { "name": "打磨琥珀色的牙", "description": "狩猎1头冰牙龙", "level": "6星" },
-  { "name": "飞跃头顶的威胁", "description": "狩猎1头飞雷龙", "level": "6星" },
-  { "name": "穷追猛打蛮颚龙", "description": "狩猎1头蛮颚龙", "level": "6星" },
-  { "name": "赤红双眸，斩断暗夜", "description": "狩猎1头迅龙", "level": "6星" },
-  { "name": "绽放于天际的红莲", "description": "狩猎1头火龙", "level": "6星" },
-  { "name": "妖艳之舞", "description": "狩猎1头泡狐龙", "level": "6星" },
+  {
+    "name": "邀往冥府的歌声",
+    "description": "狩猎1头人鱼龙",
+    "level": "6星"
+  },
+  {
+    "name": "打磨琥珀色的牙",
+    "description": "狩猎1头冰牙龙",
+    "level": "6星"
+  },
+  {
+    "name": "飞跃头顶的威胁",
+    "description": "狩猎1头飞雷龙",
+    "level": "6星"
+  },
+  {
+    "name": "穷追猛打蛮颚龙",
+    "description": "狩猎1头蛮颚龙",
+    "level": "6星"
+  },
+  {
+    "name": "赤红双眸，斩断暗夜",
+    "description": "狩猎1头迅龙",
+    "level": "6星"
+  },
+  {
+    "name": "绽放于天际的红莲",
+    "description": "狩猎1头火龙",
+    "level": "6星"
+  },
+  {
+    "name": "妖艳之舞",
+    "description": "狩猎1头泡狐龙",
+    "level": "6星"
+  },
   {
     "name": "“赛跑泥巴大骚动！”之卷",
     "description": "狩猎1头迅龙和1头泥鱼龙",
@@ -70,37 +134,81 @@
     "description": "狩猎1头蛮颚龙和1头雌火龙",
     "level": "6星"
   },
-  { "name": "磨炼吧！铳枪之型", "description": "捕获1头冰牙龙", "level": "6星" },
+  {
+    "name": "磨炼吧！铳枪之型",
+    "description": "捕获1头冰牙龙",
+    "level": "6星"
+  },
   {
     "name": "修炼吧！操虫棍之型",
     "description": "狩猎1头人鱼龙和1头伞鸟",
     "level": "6星"
   },
-  { "name": "锻炼吧！弓之型", "description": "狩猎2头飞雷龙", "level": "6星" },
-  { "name": "英雄豪杰", "description": "狩猎所有目标", "level": "6星" },
-  { "name": "与水共存之物", "description": "狩猎1头水兽", "level": "5星" },
+  {
+    "name": "锻炼吧！弓之型",
+    "description": "狩猎2头飞雷龙",
+    "level": "6星"
+  },
+  {
+    "name": "英雄豪杰",
+    "description": "狩猎所有目标",
+    "level": "6星"
+  },
+  {
+    "name": "与水共存之物",
+    "description": "狩猎1头水兽",
+    "level": "5星"
+  },
   {
     "name": "在泥沼中跌倒也要爬起来",
     "description": "狩猎1头土砂龙",
     "level": "5星"
   },
-  { "name": "请小心沙原的魔球", "description": "狩猎2头赤甲兽", "level": "5星" },
-  { "name": "一柿入魂", "description": "狩猎1头天狗兽", "level": "5星" },
+  {
+    "name": "请小心沙原的魔球",
+    "description": "狩猎2头赤甲兽",
+    "level": "5星"
+  },
+  {
+    "name": "一柿入魂",
+    "description": "狩猎1头天狗兽",
+    "level": "5星"
+  },
   {
     "name": "其能成为营养亦可化作剧毒",
     "description": "狩猎1头毒妖鸟",
     "level": "5星"
   },
-  { "name": "滴水穿岩", "description": "狩猎1头岩龙", "level": "5星" },
-  { "name": "为女王所吸引", "description": "狩猎1头雌火龙", "level": "5星" },
-  { "name": "沼中危影", "description": "狩猎1头泥鱼龙", "level": "5星" },
-  { "name": "看清吧！大剑之型", "description": "狩猎2头天狗兽", "level": "5星" },
+  {
+    "name": "滴水穿岩",
+    "description": "狩猎1头岩龙",
+    "level": "5星"
+  },
+  {
+    "name": "为女王所吸引",
+    "description": "狩猎1头雌火龙",
+    "level": "5星"
+  },
+  {
+    "name": "沼中危影",
+    "description": "狩猎1头泥鱼龙",
+    "level": "5星"
+  },
+  {
+    "name": "看清吧！大剑之型",
+    "description": "狩猎2头天狗兽",
+    "level": "5星"
+  },
   {
     "name": "用身体记住吧！大锤之型",
     "description": "狩猎1头毒妖鸟和1头土砂龙",
     "level": "5星"
   },
-  { "name": "领会吧！长枪之型", "description": "捕获1头雌火龙", "level": "5星" },
+  {
+    "name": "领会吧！长枪之型",
+    "description": "捕获1头雌火龙",
+    "level": "5星"
+  },
   {
     "name": "融为一体吧！盾斧之型",
     "description": "狩猎所有目标",
@@ -116,25 +224,60 @@
     "description": "狩猎1头奇怪龙和1头河童蛙",
     "level": "5星"
   },
-  { "name": "包围而来的旋风", "description": "狩猎1头镰鼠龙王", "level": "4星" },
+  {
+    "name": "包围而来的旋风",
+    "description": "狩猎1头镰鼠龙王",
+    "level": "4星"
+  },
   {
     "name": "怪物美食家",
     "description": "狩猎1头青熊兽和1头搔鸟",
     "level": "4星"
   },
-  { "name": "冰天雪地打瞌睡", "description": "狩猎2头眠狗龙王", "level": "4星" },
-  { "name": "伞鸟圆舞", "description": "狩猎1头伞鸟", "level": "4星" },
-  { "name": "相扑大赛·冰封群岛", "description": "狩猎1头河童蛙", "level": "4星" },
+  {
+    "name": "冰天雪地打瞌睡",
+    "description": "狩猎2头眠狗龙王",
+    "level": "4星"
+  },
+  {
+    "name": "伞鸟圆舞",
+    "description": "狩猎1头伞鸟",
+    "level": "4星"
+  },
+  {
+    "name": "相扑大赛·冰封群岛",
+    "description": "狩猎1头河童蛙",
+    "level": "4星"
+  },
   {
     "name": "可爱的东西也有尖牙",
     "description": "狩猎1头白兔兽",
     "level": "4星"
   },
-  { "name": "身披剧毒锦缎", "description": "狩猎1头毒狗龙王", "level": "4星" },
-  { "name": "某夜，狩猎奇怪龙", "description": "狩猎1头奇怪龙", "level": "4星" },
-  { "name": "“蛋团子争夺战！”之卷 狩猎2头搔鸟", "level": "4星" },
-  { "name": "掌握吧！单手剑之型", "description": "捕获1头伞鸟", "level": "4星" },
-  { "name": "理解吧！狩猎笛之型", "description": "狩猎所有目标", "level": "4星" },
+  {
+    "name": "身披剧毒锦缎",
+    "description": "狩猎1头毒狗龙王",
+    "level": "4星"
+  },
+  {
+    "name": "某夜，狩猎奇怪龙",
+    "description": "狩猎1头奇怪龙",
+    "level": "4星"
+  },
+  {
+    "name": "“蛋团子争夺战！”之卷 狩猎2头搔鸟",
+    "level": "4星"
+  },
+  {
+    "name": "掌握吧！单手剑之型",
+    "description": "捕获1头伞鸟",
+    "level": "4星"
+  },
+  {
+    "name": "理解吧！狩猎笛之型",
+    "description": "狩猎所有目标",
+    "level": "4星"
+  },
   {
     "name": "变幻吧！剑斧之型",
     "description": "狩猎1头白兔兽和1头奇怪龙",
@@ -145,5 +288,179 @@
     "description": "狩猎1头眠狗龙王和1头毒狗龙王",
     "level": "4星"
   },
-  { "name": "圆滚滚的可爱青熊兽", "description": "捕获1头青熊兽", "level": "4星" }
+  {
+    "name": "圆滚滚的可爱青熊兽",
+    "description": "捕获1头青熊兽",
+    "level": "4星"
+  },
+  {
+    "name": "请君入梦",
+    "description": "狩猎1头人鱼龙",
+    "level": "3星"
+  },
+  {
+    "name": "冰雪斗士",
+    "description": "狩猎1头雪鬼兽",
+    "level": "3星"
+  },
+  {
+    "name": "飞龙，跃动于地面",
+    "description": "狩猎1头飞雷龙",
+    "level": "3星"
+  },
+  {
+    "name": "泥，泥泞，泥翁龙",
+    "description": "狩猎1头泥翁龙",
+    "level": "3星"
+  },
+  {
+    "name": "熔岩洞的暴徒",
+    "description": "狩猎1头蛮颚龙",
+    "level": "3星"
+  },
+  {
+    "name": "暗夜中疾驰的双星",
+    "description": "狩猎1头迅龙",
+    "level": "3星"
+  },
+  {
+    "name": "为泡狐所吸引",
+    "description": "狩猎1头泡狐龙",
+    "level": "3星"
+  },
+  {
+    "name": "王者，降临熔岩洞",
+    "description": "狩猎1头火龙",
+    "level": "3星"
+  },
+  {
+    "name": "水月雷鸣",
+    "description": "狩猎1头雷狼龙",
+    "level": "3星"
+  },
+  {
+    "name": "白骑士",
+    "description": "狩猎1头冰牙龙",
+    "level": "3星"
+  },
+  {
+    "name": "冲向伙伴的咆哮",
+    "description": "狩猎1头轰龙",
+    "level": "3星"
+  },
+  {
+    "name": "请小心尖锐的角",
+    "description": "狩猎1头角龙",
+    "level": "3星"
+  },
+  {
+    "name": "鬼火",
+    "description": "狩猎1头怨虎龙",
+    "level": "3星"
+  },
+  {
+    "name": "尾巴×尾巴",
+    "description": "狩猎1头天狗兽和1头泥翁龙",
+    "level": "3星"
+  },
+  {
+    "name": "狂暴者",
+    "description": "狩猎所有目标",
+    "level": "3星"
+  },
+  {
+    "name": "灾祸中也要保持美丽",
+    "description": "狩猎所有目标",
+    "level": "3星"
+  },
+  {
+    "name": "用尾巴转圈圈",
+    "description": "狩猎1头天狗兽",
+    "level": "2星"
+  },
+  {
+    "name": "认真观察毒妖鸟",
+    "description": "狩猎1头毒妖鸟",
+    "level": "2星"
+  },
+  {
+    "name": "水没林被水淹没",
+    "description": "狩猎1头水兽",
+    "level": "2星"
+  },
+  {
+    "name": "土砂龙的硬脑袋",
+    "description": "狩猎1头土砂龙",
+    "level": "2星"
+  },
+  {
+    "name": "迫近的白影",
+    "description": "狩猎1头奇怪龙",
+    "level": "2星"
+  },
+  {
+    "name": "沙原中滚动的赤甲兽",
+    "description": "狩猎1头赤甲兽",
+    "level": "2星"
+  },
+  {
+    "name": "回头一看是岩龙",
+    "description": "狩猎1头岩龙",
+    "level": "2星"
+  },
+  {
+    "name": "成为女王的方法",
+    "description": "狩猎1头雌火龙",
+    "level": "2星"
+  },
+  {
+    "name": "鲸吞力士",
+    "description": "狩猎1头河童蛙",
+    "level": "2星"
+  },
+  {
+    "name": "兔与蛙的相扑练习",
+    "description": "狩猎1头白兔兽和1头河童蛙",
+    "level": "2星"
+  },
+  {
+    "name": "水之兽与火之龙",
+    "description": "狩猎所有目标",
+    "level": "2星"
+  },
+  {
+    "name": "唐伞妖怪",
+    "description": "狩猎1头伞鸟",
+    "level": "1星"
+  },
+  {
+    "name": "半夜三更击退搔鸟",
+    "description": "狩猎1头搔鸟",
+    "level": "1星"
+  },
+  {
+    "name": "眠狗龙王，现身冰封群岛",
+    "description": "狩猎1头眠狗龙王",
+    "level": "1星"
+  },
+  {
+    "name": "请小心迫近的雪球",
+    "description": "狩猎1头白兔兽",
+    "level": "1星"
+  },
+  {
+    "name": "奔跑于废神社的毒狗龙王",
+    "description": "狩猎1头毒狗龙王",
+    "level": "1星"
+  },
+  {
+    "name": "蜂蜜争夺战！",
+    "description": "狩猎1头青熊兽",
+    "level": "1星"
+  },
+  {
+    "name": "请小心迫近的雪球",
+    "description": "狩猎1头白兔兽",
+    "level": "1星"
+  }
 ]
