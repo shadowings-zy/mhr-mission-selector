@@ -8,3 +8,11 @@ export const shuffleArray = (arr) => {
   }
   return arr;
 };
+
+// 获取window宽高
+export const getWindowWidthAndHeight = () => {
+  return {
+    width: document.documentElement.clientWidth,
+    height: document.documentElement.clientHeight,
+  }
+}
