@@ -89,15 +89,31 @@
     "description": "捕获1头金狮子",
     "level": "7星"
   },
-  { "name": "远古幻影", "description": "讨伐1头霞龙", "level": "7星" },
-  { "name": "风暴之黑影", "description": "讨伐1头钢龙", "level": "7星" },
-  { "name": "炎国之王", "description": "讨伐1头炎王龙", "level": "7星" },
+  {
+    "name": "远古幻影",
+    "description": "讨伐1头霞龙",
+    "level": "7星"
+  },
+  {
+    "name": "风暴之黑影",
+    "description": "讨伐1头钢龙",
+    "level": "7星"
+  },
+  {
+    "name": "炎国之王",
+    "description": "讨伐1头炎王龙",
+    "level": "7星"
+  },
   {
     "name": "傾泻而下的爆鱗箭矢",
     "description": "狩猎1头爆鳞龙",
     "level": "7星"
   },
-  { "name": "爆鱗龙，再现", "description": "狩猎1头爆鳞龙", "level": "7星" },
+  {
+    "name": "爆鱗龙，再现",
+    "description": "狩猎1头爆鳞龙",
+    "level": "7星"
+  },
   {
     "name": "暴饮暴食，霸主·青熊兽",
     "description": "讨伐1头霸主·青熊兽",
@@ -126,6 +142,76 @@
   {
     "name": "倪泰教官的挑战书·其三",
     "description": "狩猎所有目标",
+    "level": "7星"
+  },
+  {
+    "name": "倪泰教官的挑战书·其四",
+    "description": "狩猎所有目标",
+    "level": "7星"
+  },
+  {
+    "name": "倪泰教官的挑战书·其五",
+    "description": "狩猎所有目标",
+    "level": "7星"
+  },
+  {
+    "name": "百龙渊源",
+    "description": "狩猎1头风神龙和1头雷神龙",
+    "level": "7星"
+  },
+  {
+    "name": "来自彼方的凶星",
+    "description": "讨伐1头神秘红光天彗龙",
+    "level": "7星"
+  },
+  {
+    "name": "如虎添翼，霸主·火龙",
+    "description": "讨伐1头霸主·火龙",
+    "level": "7星"
+  },
+  {
+    "name": "暴虐无比，霸主·角龙",
+    "description": "讨伐1头霸主·角龙",
+    "level": "7星"
+  },
+  {
+    "name": "电光雷鸣，霸主·雷狼龙",
+    "description": "讨伐1头霸主·雷狼龙",
+    "level": "7星"
+  },
+  {
+    "name": "高难度: 身缠灾祸者",
+    "description": "狩猎1头怨虎龙和1头爆鳞龙",
+    "level": "7星"
+  },
+  {
+    "name": "高难度: 龙兽戏画",
+    "description": "狩猎1头雪鬼兽、1头轰龙和1头泡狐龙",
+    "level": "7星"
+  },
+  {
+    "name": "高难度: 司掌暴风与火焰者",
+    "description": "讨伐1头钢龙和1头炎王龙",
+    "level": "7星"
+  },
+  {
+    "name": "高难度: 敢问鬼在何方",
+    "description": "讨伐1头霞龙，狩猎1头金狮子",
+    "level": "7星"
+  },
+  {
+    "name": "高难度: 凶星，降临业火之地",
+    "description": "讨伐1头神秘红光天彗龙，狩猎1头妃蜘蛛",
+    "level": "7星"
+  },
+  {
+    "name": "高难度: 强者们的酒宴",
+    "description": "狩猎所有目标",
+    "level": "7星"
+  },
+  {
+    "name": "高难度: 得霸主之名者",
+    "description": "讨伐所有目标",
     "level": "7星"
   },
   {
